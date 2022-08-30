@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<PackageId>DapperHelper</PackageId>
+		<Version>1.0.1</Version>
+		<Authors>Laptter</Authors>
+		<Company></Company>
+		<Description>
+			dapper helper 
+		</Description>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<GenerateDocumentationFile>False</GenerateDocumentationFile>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Dapper" Version="2.0.123" />
+	</ItemGroup>
+
+</Project>
+

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>netstandard2.0</TargetFramework>
+	  <PackageId>Util</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>Laptter</Authors>
+	  <Company></Company>
+	  <Description>
+		  Util
+	  </Description>
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  <GenerateDocumentationFile>False</GenerateDocumentationFile>
+  </PropertyGroup>
+
+</Project>
